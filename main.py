@@ -35,7 +35,7 @@ from core import (
 
 
 REPO = """
-🤖 **Music Player**
+⚡ **Vc Player**
 - Repo: [GitHub](https://github.com/Dude/Favbot)
 - License: AGPL-3.0-or-later
 """
@@ -91,6 +91,7 @@ async def help(_, message: Message, lang):
 )
 @register
 @language
+@only_admins
 @handle_error
 async def play_stream(_, message: Message, lang):
     chat_id = message.chat.id
@@ -128,6 +129,7 @@ async def play_stream(_, message: Message, lang):
 )
 @register
 @language
+@only_admins
 @handle_error
 async def live_stream(_, message: Message, lang):
     chat_id = message.chat.id
