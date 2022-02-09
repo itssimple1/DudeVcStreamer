@@ -6,13 +6,13 @@ pip3 install -U -r requirements.txt
 echo ">> STARTING MUSIC PLAYER USERBOT..."
 clear
 echo "
-#     #                        
-##   ## #    #  ####  #  ####  
-# # # # #    # #      # #    # 
-#  #  # #    #  ####  # #      
-#     # #    #      # # #      
-#     # #    # #    # # #    # 
-#     #  ####   ####  #  ####  
+######                       #     #        
+#     # #    # #####  ###### #     #  ####  
+#     # #    # #    # #      #     # #    # 
+#     # #    # #    # #####  #     # #      
+#     # #    # #    # #       #   #  #      
+#     # #    # #    # #        # #   #    # 
+######   ####  #####  ######    #     ####  
                                
 ######                                    
 #     # #        ##   #   # ###### #####  
@@ -22,6 +22,6 @@ echo "
 #       #      #    #   #   #      #   #  
 #       ###### #    #   #   ###### #    # 
                                           
-MUSIC PLAYER USERBOT IS SUCCESSFULLY DEPLOYED!
+Vc PLAYER IS SUCCESSFULLY DEPLOYED Powered by @its_simple1!
 "
 python3 main.py
