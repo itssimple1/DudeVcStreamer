@@ -36,7 +36,7 @@ from core import (
 
 REPO = """
 🤖 **Music Player**
-- Repo: [GitHub](https://github.com/AsmSafone/MusicPlayer)
+- Repo: [GitHub](https://github.com/Dude/Favbot)
 - License: AGPL-3.0-or-later
 """
 
@@ -65,7 +65,7 @@ async def repo(_, message: Message):
 )
 @handle_error
 async def ping(_, message: Message):
-    await message.reply_text(f"🤖 **Pong!**\n`{await pytgcalls.ping} ms`")
+    await message.reply_text(f"⚡ **Pong!**\n`{await pytgcalls.ping} ms`")
 
 
 @client.on_message(
