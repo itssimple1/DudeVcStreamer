@@ -22,6 +22,6 @@ echo "
 #       #      #    #   #   #      #   #  
 #       ###### #    #   #   ###### #    # 
                                           
-Vc PLAYER IS SUCCESSFULLY DEPLOYED Powered by @its_simple1!
+VC-PLAYER⚡ IS SUCCESSFULLY DEPLOYED Powered by @its_simple1!
 "
 python3 main.py
