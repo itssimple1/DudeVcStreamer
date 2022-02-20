@@ -145,10 +145,9 @@ For any kind of help join [our support group](https://t.me/AsmSupport) or raise 
 
 ## ✨ <a name="credits"></a>Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
+- [Me](https://github.com/itssimple1) for [Noting](https://github.com/itssimple1/DudeVcstreamer) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
-- [Dude](https://github.com/itssimple1) for Making Essential Changes [Contacts](https://t.me/its_simple1) ❤️
 
 ## 📃 <a name="license"></a>License
 
