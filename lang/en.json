@@ -14,8 +14,7 @@
     "notActive": "❌ | **No Active Group Call!**",
     "notPlaying": "❌ | **Nothing Is Playing!**",
     "spotifyNotEnabled": "❌ | **Spotify Is Not Enabled!**",
-    "playing": "🎵 **[%s](%s)**\n⏱ 
-┏━━━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━━━┓\n**Duration:** `%s`\n💬 **Playing On:** `%s`\n🎧 **Requested By:** %s\n┗━━━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━━━┛",
+    "playing": "🎵 **[%s](%s)**\n⏱ **Duration:** `%s`\n💬 **Playing On:** `%s`\n🎧 **Requested By:** %s",
     "paused": "⏸ | **Paused Stream!**",
     "resumed": "▶️ | **Resumed Stream!**",
     "muted": "🔇 | **Muted Stream!**",
